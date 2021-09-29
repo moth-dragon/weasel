@@ -104,7 +104,7 @@ h1 {
     font-weight: bold;
     font-size: 30px;
     background-color: beige;
-    background-image: url(weasels-prof/pounce.jpg);
+    background-image: url(pounce.jpg);
     padding: 50px;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -159,7 +159,7 @@ h1 {
 #fact-666 {
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
-    background-image: url(weasels-prof/yharon\,\ jungle\ dragon.jpg);
+    background-image: url(yharon\,\ jungle\ dragon.jpg);
     background-color: #501010;
 }
 
@@ -188,7 +188,7 @@ h1 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-shadow: 2px 2px black, -2px -2px black, 2px -2px black, -2px 2px black, 0px -3px black, 3px 0px black, 0px -3px black, -3px 0px black;
     font-weight: bold;
-    background-image: url(weasels-prof/unknown.png);
+    background-image: url(unknown.png);
     background-color: #CCCCCC;
     font-size: 30px;
     padding: 40px 60px;
