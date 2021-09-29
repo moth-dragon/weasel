@@ -1,0 +1,143 @@
+.background {
+    width: 100%;
+    height: 100%;
+}
+
+h1 {
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 20px;
+    font-size: 30px;
+    background-color: beige;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.text {
+    margin-left: auto;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: beige;
+    background-image: url(pounce.jpg);
+    padding: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+    text-shadow: 2px 2px black, -2px -2px black, 2px -2px black, -2px 2px black, 0px -3px black, 3px 0px black, 0px -3px black, -3px 0px black;
+}
+
+.link, .navigator {
+    color: white;
+    text-decoration: none;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.link:hover, .navigator:hover, .back-to-top:hover {
+    color: #cbcbcb;
+    text-decoration: white wavy underline;
+}
+
+.back-to-top {
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.slide {
+    display: block;
+    width: 80%;
+    max-width: 600px;
+}
+
+.caption {
+    color: #65f3f3;
+    background: #303030;
+    font-size: 22px;
+    padding: 80px 12px;
+    bottom: 80px;
+    width: 100%;
+    text-align: center; 
+}
+
+.demonic-text {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 26px;
+    color: black;
+    text-shadow: 1px 1px red, -1px -1px red, 1px -1px red, -1px 1px red;
+    font-weight: bolder;
+}
+
+#fact-666 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    background-image: url(yharon\,\ jungle\ dragon.jpg);
+    background-color: #501010;
+}
+
+#fun-fact {
+    padding: 11px;
+    background-color: black;
+    font-size: 22px;
+    color: white;
+    text-shadow: 1px 1px black, -1px -1px black, 1px -1px black, -1px 1px black;
+}
+
+#fun-facte {
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    text-shadow: 1px 1px black, -1px -1px black, 1px -1px black, -1px 1px black;
+}
+
+.vocabulary {
+    color: greenyellow;
+    text-decoration: greenyellow wavy underline;
+}
+
+.slidle {
+    color: #65f3f3;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 2px 2px black, -2px -2px black, 2px -2px black, -2px 2px black, 0px -3px black, 3px 0px black, 0px -3px black, -3px 0px black;
+    font-weight: bold;
+    background-image: url(unknown.png);
+    background-color: #CCCCCC;
+    font-size: 30px;
+    padding: 40px 60px;
+    top: 0;
+}
+
+.navigator {
+    display: block;
+    width: auto;
+    text-align: left;
+    padding-left: 33%;
+}
+
+#top {
+    text-align: center;
+}
+
+nav {
+    width: 60%;
+    border: 3px solid black;
+    background: red;
+    display: inline-block;
+    padding: 5px;
+}
+
+#back-to-homepage {
+    display: inline-block;
+    background-color: red;
+    border: 3px solid black;
+}
+
+.scroll-page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    font-size: 5em;
+}
